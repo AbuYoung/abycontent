@@ -7,6 +7,8 @@ authors: ["abu"]
 
 {{% center %}}
  Hi
+
  欢迎来到这片荒芜的绿洲
+ 
  enjoy yourself
 {{% /center %}}
