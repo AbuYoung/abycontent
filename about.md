@@ -6,5 +6,7 @@ authors: ["abu"]
 # say hi to me
 
 {{% center %}}
-_测试_
+ Hi
+ 欢迎来到这片荒芜的绿洲
+ enjoy yourself
 {{% /center %}}
