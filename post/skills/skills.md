@@ -2,6 +2,7 @@
 title: "Skills"
 date: 2018-07-18T22:53:56+08:00
 authors: ["abu"]
+tags: ["skills"]
 ---
 # 应掌握的技能
 
