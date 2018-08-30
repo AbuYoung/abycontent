@@ -6,6 +6,8 @@ tags: ["skills"]
 ---
 # 应掌握的技能
 
+<!--more-->
+
 ## 算法
 
 - 二分搜索 Binary Search  
