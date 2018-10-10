@@ -1,7 +1,7 @@
 ---
 title: "十一 · 饭宝宝"
 date: 2018-10-10T10:15:46+08:00
-authot: ["abu"]
+author: ["abu"]
 tags: ["mood"]
 ---
 # 开始~
